@@ -1,0 +1,39 @@
+{
+  "n_total": 1309,
+  "therapy_counts": {
+    "1": 325,
+    "2": 324,
+    "3": 330,
+    "4": 330
+  },
+  "anova_f": 22.04,
+  "anova_p": 0.0,
+  "kruskal_h": 56.32,
+  "kruskal_p": 0.0,
+  "best_therapy": 4,
+  "best_therapy_responders_pct": 48.7,
+  "t4_mean_slope": 0.004299,
+  "t4_pred_week48_cd4": 21.0,
+  "ranking": [
+    {
+      "rank": 1,
+      "therapy": 4,
+      "score": 0.496
+    },
+    {
+      "rank": 2,
+      "therapy": 3,
+      "score": -0.675
+    },
+    {
+      "rank": 3,
+      "therapy": 2,
+      "score": -1.079
+    },
+    {
+      "rank": 4,
+      "therapy": 1,
+      "score": -1.355
+    }
+  ]
+}
