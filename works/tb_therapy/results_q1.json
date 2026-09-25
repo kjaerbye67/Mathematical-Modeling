@@ -1,0 +1,19 @@
+{
+  "n_total": 356,
+  "n_valid": 356,
+  "cd4_mean_change": 94.8,
+  "cd4_std_change": 103.6,
+  "cd4_mean_pct": 427.9,
+  "cd4_improve_rate": 84.0,
+  "vl_mean_reduction": 2.09,
+  "vl_improve_rate": 90.7,
+  "t_stop_mean": 34.5,
+  "t_stop_median": 29.9,
+  "t_stop_std": 26.0,
+  "t_stop_min": 5.0,
+  "t_stop_max": 80.0,
+  "cd4_r2_mean": 0.642,
+  "recommendation": "建议治疗 30 周（约 7.5 个月），范围 5-80 周",
+  "improved_pct": 84.0,
+  "declined_pct": 16.0
+}
